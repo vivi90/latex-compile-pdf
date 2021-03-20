@@ -1,0 +1,10 @@
+# Temporary files
+*~
+
+# LaTeX compile output
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.run.xml
